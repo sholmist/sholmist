@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sara-holmquist
+- 👋 Hi, I’m @sholmist
 - 👀 I’m interested in making web/mobile applications and learning more as a fullstack .NET developer
 - 🌱 I’m currently learning SASS and React
 - 📫 How to reach me ...
